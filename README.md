@@ -32,5 +32,7 @@ Due to limited time and computational power. I have used less number of "n_estim
   <img width="476" height="252" src="https://github.com/Raahul46/Earthquake-damage-classification/blob/master/Images/impo.png">
 </p>
 
+## C0-Creators:
+<p>Raahul kalyaan J - <span><a href="https://github.com/Raahul46"/>Raahul46</span></a></p>
 
 [![MIT license](https://github.com/Raahul46/Earthquake-damage-classification/blob/master/Images/mit.svg)](https://lbesson.mit-license.org/)
